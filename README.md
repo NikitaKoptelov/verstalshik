@@ -1,3 +1,3 @@
 # verstalshik
 
-https://NikitaKoptelov.github.io/verstalshik/
+http://NikitaKoptelov.github.io/verstalshik/
